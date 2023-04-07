@@ -1,0 +1,94 @@
+.navContaner {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  height: 8vh;
+  background-color: #2c0e3a;
+  align-items: center;
+}
+.parascore {
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+}
+.againbtn {
+  background-color: #cf60c8;
+  height: 5vh;
+  width: 120px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-width: 0px;
+  border-radius: 5px;
+
+  color: #ffffff;
+}
+.trophy {
+  height: 40vh;
+  margin-top: 15vh;
+}
+.overcard {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  height: 120vh;
+  background-size: cover;
+  width: 45vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.gameover {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.bgimg {
+  height: 50vh;
+  margin-top: 10vh;
+}
+.imageItems {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-left: 25vh;
+  margin-right: 25vh;
+}
+.gameCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.matchimg {
+  height: 5vh;
+  margin-left: 2vh;
+}
+.timlogo {
+  height: 4vh;
+  margin-left: 2vh;
+  margin-right: 1vh;
+}
+.scorelogo {
+  display: flex;
+  align-items: center;
+  margin-right: 6vh;
+}
+.tabsCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.sp {
+  color: #fec653;
+  font-weight: bold;
+}
+.score {
+  color: #ffffff;
+  font-weight: bold;
+}

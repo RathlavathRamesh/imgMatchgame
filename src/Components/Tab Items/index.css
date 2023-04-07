@@ -1,0 +1,18 @@
+.tabitem {
+  list-style-type: none;
+  margin: 2vh;
+}
+.tabname {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 4vh;
+  margin-top: 1vh;
+  margin-left: 1vh;
+  background-color: #2c0e3a;
+  border-width: 0px;
+}
+.stylish {
+  color: #fec653;
+  font-weight: 500;
+  text-decoration: underline;
+}

@@ -1,0 +1,13 @@
+.imgItem {
+  list-style-type: none;
+  margin: 2vh;
+}
+.imgs {
+  height: 14vh;
+  width: 9vw;
+  border-radius: 5px;
+}
+.imgbtn {
+  background-color: #2c0e3a;
+  border-width: 0px;
+}
